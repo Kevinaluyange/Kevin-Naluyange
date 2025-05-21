@@ -13,6 +13,7 @@ print(mySet)
 for item in mySet:
     print(item)
 
+#new dict
 myElements = {"book", "pen", "paper", "ruler"}
 my_items = ["rubber", "duster"]
 new_items = set(["rubber", "duster"])
